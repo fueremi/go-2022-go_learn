@@ -79,7 +79,7 @@ Tutorial by [Programming Zaman Now](https://www.youtube.com/playlist?list=PL-Ctd
 | int       | min int32  |
 | uint      | min uint32 |
 
-### Contoh
+### Example
 
 ```go
 package main
