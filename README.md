@@ -1,6 +1,12 @@
 # Go Lang
 
-## Session 2 - How To Run And Build Golang Program
+Tutorial by [Programming Zaman Now](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw)
+
+<!-- ? Session 2 -->
+  <details>
+  <summary>
+    <h2 style="display: inline-block; margin-bottom: 8px;">Session 2 - Build & Run</h2>
+  </summary>
 
 - **Build** (Usually for production)
   ```go
@@ -12,12 +18,14 @@
   go run [path/file_go]
   // execute directly
   ```
+  </details>
 
-## Session 3 - Data Type
+<details>
+  <summary>
+    <h2 style="display: inline-block; margin-bottom: 8px;">Session 3 - Data Type Number</h2>
+  </summary>
 
 ### Number
-
-#### - Interger
 
 | Data Type  | Min Value            | Max Value            |
 | ---------- | -------------------- | -------------------- |
@@ -30,7 +38,7 @@
 | **uint32** | 0                    | 4294967295           |
 | **uint64** | 0                    | 18446744073709551615 |
 
-#### - Floating Point
+### Floating Point
 
   <table>
     <thead>
@@ -62,7 +70,7 @@
     </tbody>
   </table>
 
-#### - Alias
+### Alias
 
 | Data Type | Alias For  |
 | --------- | ---------- |
@@ -71,7 +79,7 @@
 | int       | min int32  |
 | uint      | min uint32 |
 
-#### - Contoh
+### Contoh
 
 ```go
 package main
@@ -84,3 +92,7 @@ fmt.Println("Dua = ", 2)
 fmt.Println("Tiga Koma Lima = ", 3.5)
 }
 ```
+
+  </summary>
+
+</details>
