@@ -5,7 +5,7 @@ Tutorial by [Programming Zaman Now](https://www.youtube.com/playlist?list=PL-Ctd
 <!-- ? Session 2 -->
   <details>
   <summary>
-    <h2 style="display: inline-block; margin-bottom: 8px;">Session 2 - Build & Run</h2>
+    <h2 style="display: inline-block;">Session 2 - Build & Run</h2>
   </summary>
 
 - **Build** (Usually for production)
@@ -22,7 +22,7 @@ Tutorial by [Programming Zaman Now](https://www.youtube.com/playlist?list=PL-Ctd
 
 <details>
   <summary>
-    <h2 style="display: inline-block; margin-bottom: 8px;">Session 3 - Data Type Number</h2>
+    <h2 style="display: inline-block;">Session 3 - Data Type Number</h2>
   </summary>
 
 ### Number
